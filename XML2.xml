@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!-- was: <?xml version="1.0" encoding="ISO-8859-1"?> -->
+<!DOCTYPE matricula SYSTEM "dtd2EXTERNO.dtd">
+<matricula>
+    <personal>
+        <dni>99223366M</dni>
+        <nombre>Juan Pardo Mart�n</nombre>
+        <titulacion>Ingenier�a Inform�tica</titulacion>
+        <curso_academico>1997/1998</curso_academico>
+        <domicilios>
+            <domicilio tipo="familiar">
+                <nombre>C/ Principal n�1</nombre>
+            </domicilio>
+            <domicilio tipo="habitual">
+                <nombre>C/ Secundaria n�2</nombre>
+            </domicilio>
+        </domicilios>
+    </personal>
+    <pago>
+        <tipo_matricula>Matr�cula Ordinaria</tipo_matricula>
+    </pago>
+</matricula>
